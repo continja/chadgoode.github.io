@@ -5,9 +5,9 @@ last_modified_at: 2019-04-19
 category: travel
 tags: gallery
 header:
-  overlay_image: /assets/images/banner-famousplaces.jpg
+  overlay_image: /assets/images/posts/2019-04-01/banner-famousplaces.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/teaser-famousplaces.jpg
+  teaser: /assets/images/posts/2019-04-01/teaser-famousplaces.jpg
 excerpt: Just some pics of me in various places, or with various things, around the world.
 classes: wide
 gallery:

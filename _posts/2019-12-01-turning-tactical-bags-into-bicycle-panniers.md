@@ -5,9 +5,9 @@ last_modified_at: 2019-12-01
 category: projects
 tags: cycling diy bikepacking commuting
 header:
-  overlay_image: /assets/images/posts/2019-12-01/finished-pannier-mounted-wide.jpg
+  overlay_image: /assets/images/posts/2019-12-01/banner-bike-panniers.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/posts/2019-12-01/finished-pannier-mounted-sq.jpg
+  teaser: /assets/images/posts/2019-12-01/teaser-bike-panniers.jpg
 excerpt: A little more than a year ago, I started bike-commuting to/from work when the weather was nice. I also wanted to start bikepacking. I needed some panniers.
 toc: true
 toc_sticky: true

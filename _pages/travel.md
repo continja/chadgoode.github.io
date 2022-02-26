@@ -8,4 +8,6 @@ header:
   overlay_filter: 0.5
   teaser: /assets/images/teaser-travel.jpg
 excerpt: Travel and stuff.
+entries_layout: grid
+classes: wide
 ---

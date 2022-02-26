@@ -1,5 +1,5 @@
 ---
-title: "The stuff I like to do..."
+title: "So far, so Goode."
 layout: splash
 permalink: /
 date: 2022-02-21

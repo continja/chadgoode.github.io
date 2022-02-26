@@ -5,9 +5,9 @@ last_modified_at: 2019-03-10
 category: projects
 tags: automation esp8266 HomeAssistant
 header:
-  overlay_image: /assets/images/posts/2019-03-10/garage-door-controller.jpg
+  overlay_image: /assets/images/posts/2019-03-10/banner-garage-door-controller.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/posts/2019-03-10/garage-door-controller.jpg
+  teaser: /assets/images/posts/2019-03-10/teaser-garage-door-controller.jpg
 excerpt: My first home automation/HomeAssistant project to ensure the garage door isn't left open all night.
 toc: true
 toc_sticky: true
