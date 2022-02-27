@@ -1,5 +1,5 @@
 ---
-title: Light Show
+title: Holiday Light Show
 layout: category
 permalink: /categories/lightshow/
 taxonomy: lightshow
