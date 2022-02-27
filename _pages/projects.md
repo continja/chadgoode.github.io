@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: category
-permalink: /categories/projects/
+permalink: /projects/
 taxonomy: projects
 header:
   overlay_image: /assets/images/banner-projects.jpg

@@ -1,7 +1,7 @@
 ---
 title: Holiday Light Show
 layout: category
-permalink: /categories/lightshow/
+permalink: /lightshow/
 taxonomy: lightshow
 header:
   overlay_image: /assets/images/banner-lightshow.jpg

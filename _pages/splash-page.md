@@ -21,20 +21,20 @@ feature_row:
     alt: "DIY Projects"
     title: "DIY Projects"
     excerpt: "Home automation, home improvement and other projects around the house."
-    url: /categories/projects/
+    url: /projects/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/banner-lightshow.jpg
     alt: "placeholder image 2"
     title: "Holiday Light Show"
     excerpt: "Show info, videos and lots of other info about our holiday light show."
-    url: "/categories/lightshow/"
+    url: "/lightshow/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/teaser-travel.jpg
     title: "My Travels"
     excerpt: "Some pics in various places or with various things around the world."
-    url: "/categories/travel/"
+    url: "/travel/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 

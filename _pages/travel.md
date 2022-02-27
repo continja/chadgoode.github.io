@@ -1,7 +1,7 @@
 ---
 title: Travel
 layout: category
-permalink: /categories/travel/
+permalink: /travel/
 taxonomy: travel
 header:
   overlay_image: /assets/images/banner-travel.jpg

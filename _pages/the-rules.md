@@ -1,6 +1,6 @@
 ---
 title: "Rules for Viewing"
-permalink: /the_rules/
+permalink: /lightshow/the_rules/
 header:
   overlay_image: /assets/images/banner-lightshow.jpg
   overlay_filter: 0.5
