@@ -5,9 +5,9 @@ last_modified_at: 2022-02-23
 category: projects
 tags: automation HomeAssistant
 header:
-  overlay_image: /assets/images/posts/2019-03-10/banner-garage-door-controller.jpg
+  overlay_image: /assets/images/posts/2022-02-23/banner-ha-sms.jpg
   overlay_filter: 0.5
-  teaser: /assets/images/posts/2019-03-10/teaser-garage-door-controller.jpg
+  teaser: /assets/images/posts/2022-02-23/teaser-ha-sms.jpg
 excerpt: Use VoIP.ms with Home Assistant to send and receive SMS text messages in your automations.
 toc: true
 toc_sticky: true
@@ -15,9 +15,11 @@ toc_sticky: true
 
 I will address why I needed this and how I ended up here in another post. But in a nutshell, here is one not-free-but-cheap way to trigger Home Assistant (HA) automations with text messages and to send status or other informational text messages from HA. At the end, I'll get fancy and show you how to have HA reply to the text messages it receives.
 
-Note: By "cheap", I mean that a new phone number is just $0.85 per month + $0.0075 per SMS message. 
+Note: By "cheap", I mean that a new phone number is just $0.85 per month + $0.0075 per SMS message.
+{: .notice--info}
 
 Note 2: You might want to check out <a href="https://wiki.voip.ms/article/SMS#Service_Limitations" target="_new">VoIP.ms SMS Service Limitations</a> before going much further, as there are some limits.
+{: .notice--info}
 
 ## Requirements
 
@@ -158,7 +160,8 @@ For [APIpassword], use the API Password you set above, without the brackets.
 
 For [yourDID], use the new DID number your ordered, without the brackets.
 
-Note that we're using template values for "dst" (destination) and "message" fields. This will allow us to code the destination number and message you want to send in your automations. 
+Note that we're using template values for "dst" (destination) and "message" fields. This will allow us to code the destination number and message you want to send in your automations.
+{: .notice--info}
 
 Save your configuration.yaml file and restart your HA server to load up the new entry.
 
