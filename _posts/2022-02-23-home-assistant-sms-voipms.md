@@ -29,7 +29,7 @@ Note 2: You might want to check out <a href="https://wiki.voip.ms/article/SMS#Se
 The above VoIP.ms is a referall link. Use it, and we'll both get $10 credit.
 {: .notice--info}
 
-## HomeAssistant Setup to Receive Inbound Texts as Event Triggers
+## Home Assistant Setup to Receive Inbound Texts as Event Triggers
 
 ### Creating Your Automation and Webhook
 
@@ -126,7 +126,7 @@ Save your settings.
 
 At this point, everything is set up. You should now be able to send a text message to your new DID number. When VoIP.ms receives that message (which you can verify via the "DID Numbers -> SMS/MMS Message Center" menu option), it should send the message details to the Callback URL (your HA server). When your HA server receives it, it should trigger your automation and turn on your light.
 
-## HomeAssistant and VoIP.ms Setup to Send Outboud SMS Text Messages From HA
+## Home Assistant and VoIP.ms Setup to Send Outboud SMS Text Messages From HA
 
 ### VoIP.ms API Setup
 
