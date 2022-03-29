@@ -51,10 +51,10 @@ gallery:
     image_path: /assets/images/posts/2019-04-01/Chad with the Bull on Wall Street - New York, NY.jpg
     alt: "With 'the Bull' on Wall Street - New York, NY"
     title: "With 'the Bull' on Wall Street - New York, NY"
-  - url: /assets/images/posts/2019-04-01/Chad at Foam Henge - Centreville, VA.jpg
-    image_path: /assets/images/posts/2019-04-01/Chad at Foam Henge - Centreville, VA.jpg
-    alt: "Foam Henge - Centreville, VA"
-    title: "Foam Henge - Centreville, VA"
+  - url: /assets/images/posts/2019-04-01/Chad at Foamhenge - Natural Bridge, VA.jpg
+    image_path: /assets/images/posts/2019-04-01/Chad at Foamhenge - Natural Bridge, VA.jpg
+    alt: "Foamhenge - Natural Bridge, VA"
+    title: "Foamhenge - Natural Bridge, VA"
   - url: /assets/images/posts/2019-04-01/Chad with the World's Larget Golf Tee - Casey, IL.jpg
     image_path: /assets/images/posts/2019-04-01/Chad with the World's Larget Golf Tee - Casey, IL.jpg
     alt: "The World's Largest Golf Tee - Casey, IL"
