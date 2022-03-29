@@ -55,6 +55,10 @@ gallery:
     image_path: /assets/images/posts/2019-04-01/Chad with the Queen's Head - Taiwan.jpg
     alt: "The Queen's Head - Yehliu, Taiwan"
     title: "The Queen's Head - Yehliu, Taiwan"
+  - url: /assets/images/posts/2019-04-01/Chad at Foam Henge - Centreville, VA.jpg.jpg
+    image_path: /assets/images/posts/2019-04-01/Chad at Foam Henge - Centreville, VA.jpg.jpg
+    alt: "Foam Henge - Centreville, VA"
+    title: "Foam Henge - Centreville, VA"
   - url: /assets/images/posts/2019-04-01/Chad with the World's Larget Golf Tee - Casey, IL.jpg
     image_path: /assets/images/posts/2019-04-01/Chad with the World's Larget Golf Tee - Casey, IL.jpg
     alt: "The World's Largest Golf Tee - Casey, IL"
