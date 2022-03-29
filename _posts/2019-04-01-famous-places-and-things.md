@@ -51,10 +51,6 @@ gallery:
     image_path: /assets/images/posts/2019-04-01/Chad with the Bull on Wall Street - New York, NY.jpg
     alt: "With 'the Bull' on Wall Street - New York, NY"
     title: "With 'the Bull' on Wall Street - New York, NY"
-  - url: /assets/images/posts/2019-04-01/Chad with the Queen's Head - Taiwan.jpg
-    image_path: /assets/images/posts/2019-04-01/Chad with the Queen's Head - Taiwan.jpg
-    alt: "The Queen's Head - Yehliu, Taiwan"
-    title: "The Queen's Head - Yehliu, Taiwan"
   - url: /assets/images/posts/2019-04-01/Chad at Foam Henge - Centreville, VA.jpg
     image_path: /assets/images/posts/2019-04-01/Chad at Foam Henge - Centreville, VA.jpg
     alt: "Foam Henge - Centreville, VA"
@@ -63,6 +59,10 @@ gallery:
     image_path: /assets/images/posts/2019-04-01/Chad with the World's Larget Golf Tee - Casey, IL.jpg
     alt: "The World's Largest Golf Tee - Casey, IL"
     title: "The World's Largest Golf Tee - Casey, IL"
+  - url: /assets/images/posts/2019-04-01/Chad with the Queen's Head - Taiwan.jpg
+    image_path: /assets/images/posts/2019-04-01/Chad with the Queen's Head - Taiwan.jpg
+    alt: "The Queen's Head - Yehliu, Taiwan"
+    title: "The Queen's Head - Yehliu, Taiwan"
 ---
 
 {% include gallery caption="" %}
