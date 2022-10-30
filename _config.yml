@@ -58,19 +58,22 @@ plugins:
 
 author:
   name   : "Chad Goode"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo_2.jpg"
   bio    : >-
     "Business continuity and disaster preparedness professional, casual cyclist, weekend warrior, DIY geek, husband and cool dad."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://chadgoode.com"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@chadgoode"
+    - label: "ContinjaTube"
+      icon: "fas fa-fw fa-play-circle"
+      url: "https://tube.continja.com/a/chadgoode/video-channels"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chadgoode"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://chadgoode.com"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
