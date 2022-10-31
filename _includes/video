@@ -13,7 +13,7 @@
   {% when "bilibili" %}
     https://player.bilibili.com/player.html?bvid={{ video_id }}&page=1&as_wide=1&high_quality=1&danmaku={{ video_danmaku }}
   {% when "continjatube" %}
-  https://tube.continja.com/videos/embed/{{ video_id }}
+  https://tube.continja.com/videos/embed/{{ video_id }}?warningTitle=0
   {% endcase %}
 {% endcapture %}
 {% assign video_src = video_src | strip %}
