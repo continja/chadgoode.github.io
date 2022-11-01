@@ -56,10 +56,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-head_scripts:
-  - https://github.com/cure53/DOMPurify/blob/main/dist/purify.min.js
-  - https://github.com/cure53/DOMPurify/blob/main/dist/purify.min.js.map
-
 author:
   name   : "Chad Goode"
   avatar : "/assets/images/bio-photo_2.jpg"
