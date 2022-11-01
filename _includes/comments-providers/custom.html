@@ -5,11 +5,11 @@
 {% if page.comments.show %}   
 <!--<div class="article-content">-->
 <div class="content">
-  <h2>Comentarios</h2>
-  <p>Utiliza a túa conta de Mastodon para / Use your Mastodon account <a class="link" href="https://{{ page.comments.fediHost }}/@{{ page.comments.fediusername }}/{{ page.comments.fediid }}">comentar esta publicación</a>.</p>
+  <h2>Comments</h2>
+  <p>Use your Mastodon/Fediverse account <a class="link" href="https://{{ page.comments.fediHost }}/@{{ page.comments.fediusername }}/{{ page.comments.fediid }}">to comment on this post</a>.</p>
   <p><a class="button" href="https://{{ page.comments.fediHost }}/interact/{{ page.comments.fediid }}?type=reply">Responder/Reply</a></p>
-  <p id="mastodon-comments-list"><button id="load-comment">Cargar comentarios</button></p>
-  <noscript><p>Precisas JavaScript para ver os comentarios.</p></noscript>
+  <p id="mastodon-comments-list"><button id="load-comment">Load Comments</button></p>
+  <noscript><p>Enable JavaScript to see comments and reply.</p></noscript>
   <script src="/assets/js/purify.min.js"></script>
   <script type="text/javascript">
     function escapeHtml(unsafe) {
@@ -59,7 +59,7 @@
                 document.getElementById('mastodon-comments-list').appendChild(DOMPurify.sanitize(mastodonComment, {'RETURN_DOM_FRAGMENT': true}));
               });
           } else {
-            document.getElementById('mastodon-comments-list').innerHTML = "<p>Sen comentarios / No comments</p>";
+            document.getElementById('mastodon-comments-list').innerHTML = "<p>No comments</p>";
           }
         });
       });
