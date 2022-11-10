@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Veterans Day/Thanksgiving 2022
+title: Veterans Day / Thanksgiving 2022
 last_modified_at: 2022-11-09
 categories: lightshow
 tags: Thanksgiving
