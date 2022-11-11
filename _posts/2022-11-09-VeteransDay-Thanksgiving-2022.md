@@ -15,6 +15,8 @@ toc_sticky: true
 
 Everything is nearly ready, and with any luck we'll be live with a special Veterans Day/Thanksgiving Show to go live Thursday, Nov 10 at sunset! At the time I'm writing this, that's less than 20 hours away. If I don't make it, we'll definitely be live Friday night.
 
+**UPDATE"** Not much luck. I finished installing right around sunset. But initial testing revealed a few problems that are going to require some work on Friday to fix. So... aiming for Friday!
+
 ## Light Show On-Demand
 
 To start the show, text the word <b>GO</b> to the number diplayed on the screen scrolling across the garage door.
