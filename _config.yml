@@ -80,9 +80,9 @@ author:
 
 footer:
   links:
-#    - label: "@chadgoode"
-#      icon: "fab fa-fw fa-mastodon"
-#      url: "https://mastodon.social/@chadgoode"
+    - label: "@chadgoode"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://social.continja.com"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
