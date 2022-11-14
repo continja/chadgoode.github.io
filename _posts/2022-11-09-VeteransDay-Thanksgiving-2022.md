@@ -13,11 +13,11 @@ toc: true
 toc_sticky: true
 ---
 
-Everything is nearly ready, and with any luck we'll be live with a special Veterans Day/Thanksgiving Show to go live Thursday, Nov 10 at sunset! At the time I'm writing this, that's less than 20 hours away. If I don't make it, we'll definitely be live Friday night.
+This year, rather than start 'Christmas' *too early*, I put together a relatively short Veterans Day/Thanksgiving show. 
 
-**THURS UPDATE:** Not much luck. I finished installing right around sunset. But initial testing revealed a few problems that are going to require some work on Friday to fix. So... aiming for Friday!
+The [Christmas Show](/lightshow/Christmas-2022) will start Fri, Nov 25.
 
-**SAT UPDATE:** I got most of the problems worked out yesterday, and we're live as of last night. I had to order some new LED strips to repair my 'leaping arches'. Whether that gets fixed today or tomorrow depends on when those new lights arrive.
+Enjoy!
 
 ## Light Show On-Demand
 
@@ -39,7 +39,7 @@ Click <b><a onclick="document.getElementById('imgAddress').style.visibility='vis
 * **Fri, Nov 18 - Sat, Nov 19** - Sunset to 11pm
 * **Sun, Nov 20 - Thu, Nov 24** - Sunset to 9pm
 
-Thanksgiving Day will be the final Veterans Day/Thanksgiving Show. The [Christmas Show](/lightshow/Christmas-2022) will start on Fri, Nov 25. Don't sweat missing it though, because most of the songs are included in the Christmas Show.
+Thanksgiving Day will be the final Veterans Day/Thanksgiving Show. Don't sweat missing it though, because most of the songs are included in the Christmas Show.
 
 ## Rules for Viewing
 
