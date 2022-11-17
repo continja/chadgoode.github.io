@@ -11,6 +11,11 @@ header:
 excerpt: Use VoIP.ms with Home Assistant to send and receive SMS text messages in your automations.
 toc: true
 toc_sticky: true
+comments:
+  show: true
+  fediHost: social.continja.com
+  fediusername: chadgoode
+  fediid: 109357056587824046
 ---
 
 I will address why I needed this and how I ended up here in another post. But in a nutshell, here is one not-free-but-cheap way to trigger Home Assistant (HA) automations with text messages and to send status or other informational text messages from HA. At the end, I'll get fancy and show you how to have HA reply to the text messages it receives.
