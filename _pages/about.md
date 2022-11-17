@@ -8,6 +8,7 @@ header:
   teaser: /assets/images/Chad with the Bull on Wall Street - New York, NY.jpg
 excerpt: In case you were curious...
 toc: true
+comments: true
 ---
 # Intro
 
