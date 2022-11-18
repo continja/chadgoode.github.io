@@ -121,3 +121,6 @@ breadcrumbs: true
 
 comments:
   provider: custom
+
+head_scripts:
+  - /assets/js/mastodon_share.js
