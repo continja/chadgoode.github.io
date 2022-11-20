@@ -11,6 +11,11 @@ header:
 excerpt: A little more than a year ago, I started bike-commuting to/from work when the weather was nice. I also wanted to start bikepacking. I needed some panniers.
 toc: true
 toc_sticky: true
+comments:
+  show: true
+  fediHost: social.continja.com
+  fediusername: chadgoode
+  fediid: 109373951617853999
 ---
 A little more than a year ago, I started bike-commuting to/from work when the weather was nice. I fought the Austin summer heat as best I could. And, now that it's cooled, I've started riding fairly regularly (11-13 miles each way, 2-3 times/week). Up until last week, when I needed to carry my work laptop back and forth, I used a backpack. It was pain... literally. And, as fate would have it, a zipper broke last week requring that I look into either another backpack or investigate other options.
 
