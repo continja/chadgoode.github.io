@@ -12,7 +12,7 @@ excerpt: Use VoIP.ms with Home Assistant to send and receive SMS text messages i
 toc: true
 toc_sticky: true
 comments:
-  show: true
+  show: false
   fediHost: social.continja.com
   fediusername: chadgoode
   fediid: 109357056587824046

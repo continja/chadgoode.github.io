@@ -12,7 +12,7 @@ excerpt: A little more than a year ago, I started bike-commuting to/from work wh
 toc: true
 toc_sticky: true
 comments:
-  show: true
+  show: false
   fediHost: social.continja.com
   fediusername: chadgoode
   fediid: 109373951617853999
