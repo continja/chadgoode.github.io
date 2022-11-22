@@ -20,7 +20,4 @@ In the meantime, go to the [Home Page](/) to find the interesting stuff.
 
 Excelsior!
 
-I'm currently testing 2 Fediverse accounts:
-
-* <a rel="me" href="https://mastodon.social/@chadgoode">@chadgoode@mastodon.social</a>
 * <a rel="me" href="https://social.continja.com/@chadgoode">@chadgoode@continja.com</a>
