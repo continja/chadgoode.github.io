@@ -8,13 +8,13 @@ header:
   teaser: /assets/images/Chad with the Bull on Wall Street - New York, NY.jpg
 excerpt: In case you were curious...
 toc: true
-comments: true
+
 ---
 # Intro
 
 Hi. I'm Chad.
 
-I primarily created this **About Me** page to serve as an identity verification link for other sites. Maybe someday I'll get around to writing a more detailed bio than what you can read over on the left of the page.
+I primarily created this **About** page to serve as an identity verification link for other sites. Maybe someday I'll get around to writing a more detailed bio than what you can read over on the left of the page.
 
 In the meantime, go to the [Home Page](/) to find the interesting stuff.
 
