@@ -30,4 +30,6 @@ The issue with this is that one has to be more conscious of copyrights in this e
 
 Because I do respect an individual's right to their intellectual property and creative work, I've decided the best option, for now, is to remove the unlicensed music from the videos hosted on my server.
 
-As a compromise, I will post videos from the show as I make them to my YouTube Channel, including the music. But once that holiday is past and I'm no longer running the show, I will remove the bulk of videos from YouTube. I will, however, leave the muted versions on my server and continue to make this archive available from this website.
+As a compromise, I will post videos from the show as I make them to my YouTube Channel, including the music. Then I will cross-post content that doesn't have any copyright restrictions to my PeerTube (removing much of the audio). 
+
+From there, I'll leave it to the viewer to decide whether to view the restricted videos (with the ads) on YouTube or the unrestricted (but likely muted) versions on my server.
