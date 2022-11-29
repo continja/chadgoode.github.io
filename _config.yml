@@ -55,6 +55,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll/mastodon_webfinger
 
 author:
   name   : "Chad Goode"
@@ -77,6 +78,10 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
+
+mastodon:
+  username: chadgoode
+  instance: social.continja.com
 
 footer:
   links:
