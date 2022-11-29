@@ -34,6 +34,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - ".well-known"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -55,7 +56,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll/mastodon_webfinger
 
 author:
   name   : "Chad Goode"
@@ -78,10 +78,6 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-
-mastodon:
-  username: chadgoode
-  instance: social.continja.com
 
 footer:
   links:

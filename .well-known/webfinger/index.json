@@ -1,0 +1,24 @@
+{
+    "subject": "acct:chadgoode@social.continja.com",
+    "aliases": [
+        "https://social.continja.com/@chadgoode",
+        "https://social.continja.com/users/chadgoode",
+        "chadgoode@continja.com"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://social.continja.com/@chadgoode"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://social.continja.com/users/chadgoode"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://social.continja.com/authorize_interaction?uri={uri}"
+        }
+    ]
+}
