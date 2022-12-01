@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Regarding the Removal of Audio from the Light Show Videos
-last_modified_at: 2022-11-25
+last_modified_at: 2022-12-01
 categories: notices
 tags: 
 header:
@@ -30,6 +30,8 @@ The issue with this is that one has to be more conscious of copyrights in this e
 
 Because I do respect an individual's right to their intellectual property and creative work, I've decided the best option, for now, is to remove the unlicensed music from the videos hosted on my server.
 
-As a compromise, I will post videos from the show as I make them to my YouTube Channel, including the music. Then I will cross-post content that doesn't have any copyright restrictions to my PeerTube (removing much of the audio). 
+As a compromise, I will post videos from the show as I make them to my [YouTube Channel](https://youtube.com/@chadgoode), including the music. I've disabled comments and viewing 'likes' to reduce the amount of interaction you'll have and thereby reducing YouTube's ability to collect tracking and behavioral data about you. Finally, I will not push notifications of new videos to subscribers. So, unless you want to for your own purposes, there is no benefit to subscribing and I do not encourage it.
 
-From there, I'll leave it to the viewer to decide whether to view the restricted videos (with the ads) on YouTube or the unrestricted (but likely muted) versions on my server.
+I will then cross-post videos with all license-restricted content removed to my [ContinjaTube](https://tube.continja.com) PeerTube channel. 
+
+From there, I'll leave it to the viewer to decide whether to view the videos on YouTube (with the ads and tracking) or the  versions on my server.
