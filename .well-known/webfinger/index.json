@@ -1,24 +1,24 @@
 {
-    "subject": "acct:chadgoode@continja.com",
+    "subject": "acct:chadgoode@opayq.social",
     "aliases": [
-        "https://social.continja.com/@chadgoode",
-        "https://social.continja.com/users/chadgoode",
-        "chadgoode@continja.com"
+        "https://opayq.social/@chadgoode",
+        "https://opayq.social/users/chadgoode",
+        "chadgoode@opayq.social"
     ],
     "links": [
         {
             "rel": "http://webfinger.net/rel/profile-page",
             "type": "text/html",
-            "href": "https://social.continja.com/@chadgoode"
+            "href": "https://opayq.social/@chadgoode"
         },
         {
             "rel": "self",
             "type": "application/activity+json",
-            "href": "https://social.continja.com/users/chadgoode"
+            "href": "https://opayq.social/users/chadgoode"
         },
         {
             "rel": "http://ostatus.org/schema/1.0/subscribe",
-            "template": "https://social.continja.com/authorize_interaction?uri={uri}"
+            "template": "https://opayq.social/authorize_interaction?uri={uri}"
         }
     ]
 }
