@@ -55,9 +55,9 @@ Because the frame 148mm Boost spacing, my old wheels wouldn't work. So I opted f
 
 <span style="align: center">![Rene Herse Fleecer Ridge Tires](/assets/images/posts/2023-04-22/rene-herse-fleecer-ridge-tires-package.jpg)</span>
 
-I had considered getting the Teravail Sparwoods that come on the stock Cutthroat, but reviews said they're a good general gravel tire, but not great on singletrack or on the road. But I read a lot of good stuff about the Fleecer Ridge tires. In fact, at the local Trek shop while getting my inspection for the 2023 MS 150, I asked the shop guy what he thought about riding them for the 150-mile road trip vs getting some wide slicks. He said he has friends who run them 100% of the time for all surfaces. He confirmed what a read: these are quiet, fast rolling and do great on the road. His recommendation was to use them for everything. 
+I had considered getting the Teravail Sparwoods that come on the stock Cutthroat, but reviews said they're a good general gravel tire, but not great on singletrack or on the road. But I read a lot of good stuff about the Fleecer Ridge tires. In fact, at the local Trek shop while getting my inspection for the 2023 MS 150, I asked the shop guy what he thought about riding them for the 150-mile road trip vs getting some wide slicks. He said he has friends who run them 100% of the time for all surfaces. He confirmed what I read: these are quiet, fast rolling, shed mud pretty well and do great on the road. His recommendation was to use them for everything. 
 
-He was right. Since March, I've done 40, 50 and 60-mile training rides on the road, plus a little gravel and singletrack, and have not once been disappointed or wish I had different tires.
+He was right. Since March, I've done 40, 50 and 60-mile training rides on the road, plus a little gravel and singletrack (dry and muddy), and have not once been disappointed or wish I had different tires.
 
 <span style="align: center">![Rene Herse Fleecer Ridge Tire](/assets/images/posts/2023-04-22/rene-herse-fleecer-ridge-tires-on-bike.jpg)</span>
 
