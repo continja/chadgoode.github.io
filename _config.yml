@@ -63,15 +63,15 @@ author:
   bio    : >-
     "Business continuity, risk management and disaster preparedness professional, casual cyclist, weekend warrior, DIY geek, husband and cool dad."
   links:
+    - label: "chadgoode.com"
+      icon: "fas fa-fw fa-link"
+      url: "https://chadgoode.com"
     - label: "@chadgoode"
       icon: "fab fa-fw fa-mastodon"
       url: "https://social.continja.com/@chadgoode"
-    - label: "ContinjaTube"
+    - label: "@chadgoode"
       icon: "fas fa-fw fa-play-circle"
-      url: "https://tube.continja.com/a/chadgoode/video-channels"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://chadgoode.com"
+      url: "https://youtube.com/@chadgoode"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
@@ -81,9 +81,9 @@ author:
 
 footer:
   links:
-    - label: "@chadgoode"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://social.continja.com"
+#    - label: "@chadgoode"
+#      icon: "fab fa-fw fa-mastodon"
+#      url: "https://social.continja.com"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
