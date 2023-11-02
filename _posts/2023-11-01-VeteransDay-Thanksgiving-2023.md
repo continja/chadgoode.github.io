@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 ---
 
-This year, rather than start 'Christmas' *too early*, I put together a relatively short Veterans Day/Thanksgiving show. 
+This year, rather than start 'Christmas' *too early*, I am again putting together a relatively short Veterans Day/Thanksgiving show. I aim to have it up and running in time for Veterans Day.
 
 The [Christmas Show](/lightshow/Christmas-2023) will start Fri, Nov 24.
 
