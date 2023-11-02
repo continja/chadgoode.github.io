@@ -15,7 +15,7 @@ toc_sticky: true
 
 This year, rather than start 'Christmas' *too early*, I put together a relatively short Veterans Day/Thanksgiving show. 
 
-The [Christmas Show](/lightshow/Christmas-2022) will start Fri, Nov 24.
+The [Christmas Show](/lightshow/Christmas-2023) will start Fri, Nov 24.
 
 Enjoy!
 
