@@ -8,14 +8,14 @@ header:
   overlay_image: /assets/images/posts/2023-11-05/christmas.jpg
   overlay_filter: 0.5
   teaser: /assets/images/posts/2023-11-05/christmas.jpg
-excerpt: Bringing a little extra joy and fun to your season!
+excerpt: Bringing a little extra joy and fun to the season!
 toc: true
 toc_sticky: true
 ---
 
 ## Light Show On-Demand
 
-To start the show, tune your car or handheld radio to <b>87.9 FM</b> to hear the music, then text the word <b>GO</b> to the number diplayed on the screen scrolling across the garage door.
+To start the show, tune your car or handheld radio to <b>87.9 FM</b> to hear the music, then text the word <b>GO</b> to the number diplayed on the garage door.
 
 Each on-demand request will play a 'set' of songs from the full playlist. If it ends and you want to see more, text <b>GO</b> again to see the next set. Keep going until you start to see repeats, or come back another time. The playlist re-shuffles periodically. So if you leave and come back, chances are you'll see a different, random mix in each set.
 
@@ -23,7 +23,7 @@ Why? After doing this a few years, we find that visitors tend to watch a few son
 
 ## About the Show
 
-The Halloween show typically runs from around October 1 through Halloween night. Shortly thereafter, we'll change over to our Christmas setup. Once that's up and tested, we'll run a shorter non-holiday specific show for a few weeks and then start the Christmas show the day after Thanksgiving.
+The Halloween show typically runs from around October 1 through Halloween night. Shortly thereafter, we'll change over to our Christmas setup. Once that's up and tested, we'll run a shorter Thanksgiving show for a few weeks and then start the Christmas show the day after Thanksgiving.
 
 ## Where to See It
 
