@@ -61,6 +61,6 @@ Here are more videos of the show.
 
 If you enjoy the show and would like to show your appreciation, please consider helping us reach our fundraising goal by donating to the National MS Society to support their efforts to find a cure for multiple sclerosis and to help those affected by MS. 
 
-Together, we can create a world free of MS! [Donate Now](https://mssociety.donordrive.com/participant/chadgoode2024)
+Together, we can create a world free of MS! <a href="https://mssociety.donordrive.com/participant/chadgoode2024" target="_new">Donate Now!</a>
 
 ![National MS Society - BikeMS](/assets/images/splash/social_awareness_dont-just-ride-2.jpg)
