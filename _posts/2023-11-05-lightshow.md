@@ -12,7 +12,6 @@ header:
 excerpt: Bringing a little extra joy and fun to the season!
 toc: true
 toc_sticky: true
-redirect_from: /lightshow/lightshow/
 
 ---
 
